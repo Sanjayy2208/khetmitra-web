@@ -1,2 +1,0 @@
-import { ScreenHeader } from '../../ui'
-export function SubsidiesScreen() { return <div className="pb-8"><ScreenHeader title="Subsidies" subtitle="Government Schemes" /><div className="p-5">No active subsidies found for your profile.</div></div> }
