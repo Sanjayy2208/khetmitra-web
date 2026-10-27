@@ -1,0 +1,2 @@
+import { ScreenHeader } from '../../ui'
+export function ReliefScreen() { return <div className="pb-8"><ScreenHeader title="Disaster Relief" subtitle="Aid & Support" /><div className="p-5">No recent disaster relief programs in your district.</div></div> }
