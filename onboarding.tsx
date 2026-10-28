@@ -1,2 +1,0 @@
-import { ScreenHeader } from '../../ui'
-export function Onboarding() { return <div className="pb-8"><ScreenHeader title="Welcome to KhetMitra" subtitle="Onboarding" /><div className="p-5">Setting up your profile...</div></div> }
